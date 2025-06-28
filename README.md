@@ -55,11 +55,11 @@
 
 | الرئيسية | لوحه تحكم المسؤل |
 |--------|--------|
-| ![img1](https://i.postimg.cc/K8wSnnHp/image.png) | ![img3](https://i.postimg.cc/SxXHNnx6/image.png)! |
+| ![img1](https://i.postimg.cc/K8wSnnHp/image.png) | ![img3](https://i.postimg.cc/SxXHNnx6/image.png) |
 
 | لوحه تحكم الدكتور | لوحه تحكم المستخدم |
 |--------|--------|
-| [img2](https://i.postimg.cc/V6whR4Bg/image.png) | ![img4](https://i.postimg.cc/NG43NhnH/image.png) |
+| ![img2](https://i.postimg.cc/V6whR4Bg/image.png) | ![img4](https://i.postimg.cc/NG43NhnH/image.png) |
 ---
 
 📝 ملاحظات هامة
