@@ -59,7 +59,7 @@
 
 | صورة 3 | صورة 4 |
 |--------|--------|
-| ![img3](https://i.postimg.cc/SxXHNnx6/image.png) | ![img4](https://i.postimg.cc/JtsYnFMr/image.png) |
+| ![img3](https://i.postimg.cc/SxXHNnx6/image.png) | ![img4](https://i.postimg.cc/NG43NhnH/image.png) |
 ---
 
 📝 ملاحظات هامة
