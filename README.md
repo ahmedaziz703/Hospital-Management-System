@@ -23,7 +23,7 @@
 - **Backend:** PHP
 - **Database:** MySQL
 - **Frontend:** HTML, CSS, JavaScript
-- **الاستضافة:** 000WebHost (رابط rf.gd مجاني)
+- **الاستضافة:** 000WebHost 
 
 ---
 
